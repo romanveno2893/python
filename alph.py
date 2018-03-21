@@ -2,7 +2,7 @@ x=raw_input("")
 print(x)
 
 if (x>='a')and(x<='z'):
-    print ("alphabet")
+    print ("yes")
 
 else:
-    print ("not alphabet")
+    print ("no")
