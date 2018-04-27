@@ -4,4 +4,4 @@ i=0
 while(m>0):
 	i=i+m
 	m=m-1
-print(i)
+print(i))
